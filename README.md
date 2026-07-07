@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DEVENDRAP7/devendrap7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Hi, I'm Devendra 👋
 
-Here are some ideas to get you started:
+<img src="assets/collaboration_protocol.svg" alt="Initiate Collaboration Protocol" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=devendrap7&hide_border=true&background=0D1117&ring=FF4B3E&fire=FF9D00&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF4B3E&sideLabels=FF9D00&dates=8B949E" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devendrap7&bg_color=0D1117&color=FFD700&line=FF4B3E&point=FFD700&area=true&hide_border=true&custom_title=Devendra%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
+
+</div>
