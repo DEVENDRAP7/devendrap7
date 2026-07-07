@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app?user=devendrap7&hide_border=true&background=0D1117&ring=FF4B3E&fire=FF9D00&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF4B3E&sideLabels=FF9D00&dates=8B949E" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=devendrap7&hide_border=true&background=0D1117&ring=FF4B3E&fire=FF9D00&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF4B3E&sideLabels=FF9D00&dates=8B949E" alt="GitHub Streak" />
 
 <br/><br/>
 
